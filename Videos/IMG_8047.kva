@@ -1,0 +1,841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.0.9.5</Producer>
+  <OriginalFilename>IMG_8047</OriginalFilename>
+  <FullPath>C:\Users\user\OneDrive\Documents\Cycling\Aero tests\Body Rocket\Tests\Newport 040722\Videos\IMG_8047.MOV</FullPath>
+  <ImageSize>1920;1080</ImageSize>
+  <Mirror>false</Mirror>
+  <AverageTimeStampsPerFrame>1001</AverageTimeStampsPerFrame>
+  <CaptureFramerate>239.76023976024</CaptureFramerate>
+  <UserFramerate>239.76023976024</UserFramerate>
+  <FirstTimeStamp>0</FirstTimeStamp>
+  <SelectionStart>118118</SelectionStart>
+  <TimeOrigin>118118</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>960;540</A>
+        <B>1060;540</B>
+      </Segment>
+      <Origin>0;100</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>00000000-0000-0000-0000-000000000000</CalibrationDrawingId>
+    <Unit Abbreviation="px">Pixels</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="ad6ac17f-ea32-427c-b3bd-05a39052add7">
+      <Position UserTime="0.150 (36)">154154</Position>
+      <Title>0.150 (36)</Title>
+    </Keyframe>
+    <Keyframe id="65defef9-2f8f-42f7-b3d5-eec101b43f41">
+      <Position UserTime="0.183 (44)">162162</Position>
+      <Title>0.183 (44)</Title>
+      <Drawings>
+        <GenericPosture id="3d3975fb-2bd3-4b83-8626-9a79294dfcb3" name="Goniometer 3">
+          <ToolId>02ea93f9-ba00-424b-8c87-07e156e0252f</ToolId>
+          <Positions>
+            <Point>1103.818;672.7012</Point>
+            <Point>1103.819;563.6972</Point>
+            <Point>1103.818;821.1326</Point>
+            <Point>1187.416;516.9812</Point>
+          </Positions>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;0;153;153</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </GenericPosture>
+        <Angle id="6a815973-3f6c-4108-a0b1-2c47c6ecefaf" name="Angle 3">
+          <PointO>967.473;554.0273</PointO>
+          <PointA>1005.174;467.1519</PointA>
+          <PointB>915.0199;617.1349</PointB>
+          <Signed>true</Signed>
+          <CCW>true</CCW>
+          <Supplementary>false</Supplementary>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;0;153;153</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+          <Measure UserAngle="163.7267" />
+        </Angle>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="2c16be47-ae6d-40f0-a0b2-71cea6ef753d">
+      <Position UserTime="0.191 (46)">164164</Position>
+      <Title>0.191 (46)</Title>
+      <Drawings>
+        <GenericPosture id="9eae8f05-5946-48d9-bc51-43435181d6a9" name="Goniometer 1">
+          <ToolId>02ea93f9-ba00-424b-8c87-07e156e0252f</ToolId>
+          <Positions>
+            <Point>1665.179;239.5219</Point>
+            <Point>1663.386;371.4741</Point>
+            <Point>1662.164;461.4661</Point>
+            <Point>1717.386;317.4741</Point>
+          </Positions>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;0;153;153</Value>
+            </Color>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </GenericPosture>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="f9885dac-7159-4b4f-b18f-fef6f1ad7005">
+      <Position UserTime="0.321 (77)">195195</Position>
+      <Title>0.321 (77)</Title>
+    </Keyframe>
+  </Keyframes>
+  <Chronos>
+    <Chrono id="38378290-0fe5-45b3-b964-9f38aa8298b1" name="Stopwatch 1">
+      <Position>1646.534;817.5298</Position>
+      <Values>
+        <Visible>0</Visible>
+        <Invisible>-1</Invisible>
+        <StartCounting>58058</StartCounting>
+        <StopCounting>-1</StopCounting>
+        <ClockOrigin>58058</ClockOrigin>
+        <UserStart>- 0.250 (-60)</UserStart>
+      </Values>
+      <Label>
+        <Show>true</Show>
+      </Label>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;0;0;0</Value>
+        </Color>
+        <FontSize Key="font size">
+          <Value>18</Value>
+        </FontSize>
+        <Toggle Key="clock">
+          <Value>true</Value>
+          <Variant>Clock</Variant>
+        </Toggle>
+      </DrawingStyle>
+    </Chrono>
+  </Chronos>
+  <CoordinateSystem id="e38e3e01-2572-48ee-853c-36ba734eac97" name="Coordinate system 1">
+    <Visible>false</Visible>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <Trackability>
+    <TrackableDrawing id="b196bad8-da8d-4492-99bb-6336d1b50f8d">
+      <TrackablePoint key="0">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>384;216</SearchWindow>
+          <BlockWindow>96;54</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>1032;472</NonTrackingValue>
+        <CurrentValue>1041;459</CurrentValue>
+        <Timeline>
+          <Frame time="58058" location="1031;471" source="Manual" />
+          <Frame time="59059" location="1031;471" source="TemplateMatching" />
+          <Frame time="60060" location="1032;471" source="TemplateMatching" />
+          <Frame time="61061" location="1032;471" source="TemplateMatching" />
+          <Frame time="62062" location="1030;472" source="TemplateMatching" />
+          <Frame time="63063" location="1031;472" source="TemplateMatching" />
+          <Frame time="64064" location="1031;472" source="TemplateMatching" />
+          <Frame time="65065" location="1031;472" source="TemplateMatching" />
+          <Frame time="66066" location="1031;472" source="TemplateMatching" />
+          <Frame time="67067" location="1032;472" source="TemplateMatching" />
+          <Frame time="68068" location="1032;472" source="TemplateMatching" />
+          <Frame time="69069" location="1032;472" source="TemplateMatching" />
+          <Frame time="70070" location="1032;472" source="TemplateMatching" />
+          <Frame time="71071" location="1032;472" source="TemplateMatching" />
+          <Frame time="72072" location="1032;472" source="TemplateMatching" />
+          <Frame time="73073" location="1032;472" source="TemplateMatching" />
+          <Frame time="74074" location="1032;472" source="TemplateMatching" />
+          <Frame time="75075" location="1031;472" source="TemplateMatching" />
+          <Frame time="76076" location="1031;472" source="TemplateMatching" />
+          <Frame time="77077" location="1031;472" source="TemplateMatching" />
+          <Frame time="78078" location="1784;383" source="Manual" />
+          <Frame time="79079" location="1031;472" source="TemplateMatching" />
+          <Frame time="80080" location="1032;471" source="TemplateMatching" />
+          <Frame time="81081" location="1031;471" source="TemplateMatching" />
+          <Frame time="82082" location="1032;470" source="TemplateMatching" />
+          <Frame time="83083" location="1032;470" source="TemplateMatching" />
+          <Frame time="84084" location="1033;470" source="TemplateMatching" />
+          <Frame time="85085" location="1033;470" source="TemplateMatching" />
+          <Frame time="86086" location="1033;470" source="TemplateMatching" />
+          <Frame time="87087" location="1032;470" source="TemplateMatching" />
+          <Frame time="88088" location="1034;469" source="TemplateMatching" />
+          <Frame time="89089" location="1034;469" source="TemplateMatching" />
+          <Frame time="90090" location="1033;469" source="TemplateMatching" />
+          <Frame time="91091" location="1033;469" source="TemplateMatching" />
+          <Frame time="92092" location="1701;389" source="Manual" />
+          <Frame time="93093" location="1034;469" source="TemplateMatching" />
+          <Frame time="94094" location="1035;468" source="TemplateMatching" />
+          <Frame time="95095" location="1035;468" source="TemplateMatching" />
+          <Frame time="96096" location="1035;468" source="TemplateMatching" />
+          <Frame time="97097" location="1035;468" source="TemplateMatching" />
+          <Frame time="98098" location="1667;402" source="Manual" />
+          <Frame time="99099" location="1036;468" source="TemplateMatching" />
+          <Frame time="100100" location="1036;468" source="TemplateMatching" />
+          <Frame time="101101" location="1036;468" source="TemplateMatching" />
+          <Frame time="102102" location="1036;468" source="TemplateMatching" />
+          <Frame time="103103" location="1035;468" source="TemplateMatching" />
+          <Frame time="104104" location="1036;467" source="TemplateMatching" />
+          <Frame time="105105" location="1604;408" source="Manual" />
+          <Frame time="106106" location="1596;408" source="TemplateMatching" />
+          <Frame time="107107" location="1588;409" source="TemplateMatching" />
+          <Frame time="108108" location="1580;410" source="TemplateMatching" />
+          <Frame time="109109" location="1572;411" source="TemplateMatching" />
+          <Frame time="110110" location="1563;411" source="TemplateMatching" />
+          <Frame time="111111" location="1555;412" source="TemplateMatching" />
+          <Frame time="112112" location="1547;413" source="TemplateMatching" />
+          <Frame time="113113" location="1538;413" source="TemplateMatching" />
+          <Frame time="114114" location="1529;414" source="TemplateMatching" />
+          <Frame time="115115" location="1521;415" source="TemplateMatching" />
+          <Frame time="116116" location="1512;416" source="TemplateMatching" />
+          <Frame time="117117" location="1503;417" source="TemplateMatching" />
+          <Frame time="118118" location="1494;418" source="Manual" />
+          <Frame time="119119" location="1485;419" source="TemplateMatching" />
+          <Frame time="120120" location="1477;420" source="TemplateMatching" />
+          <Frame time="121121" location="1467;421" source="TemplateMatching" />
+          <Frame time="122122" location="1457;422" source="TemplateMatching" />
+          <Frame time="123123" location="1448;422" source="TemplateMatching" />
+          <Frame time="124124" location="1439;423" source="TemplateMatching" />
+          <Frame time="125125" location="1431;423" source="TemplateMatching" />
+          <Frame time="126126" location="1421;424" source="TemplateMatching" />
+          <Frame time="127127" location="1411;425" source="TemplateMatching" />
+          <Frame time="128128" location="1402;425" source="TemplateMatching" />
+          <Frame time="129129" location="1393;426" source="TemplateMatching" />
+          <Frame time="130130" location="1384;427" source="TemplateMatching" />
+          <Frame time="131131" location="1374;428" source="TemplateMatching" />
+          <Frame time="132132" location="1364;428" source="TemplateMatching" />
+          <Frame time="133133" location="1355;429" source="TemplateMatching" />
+          <Frame time="134134" location="1345;430" source="TemplateMatching" />
+          <Frame time="135135" location="1335;431" source="TemplateMatching" />
+          <Frame time="136136" location="1326;431" source="TemplateMatching" />
+          <Frame time="137137" location="1315;433" source="TemplateMatching" />
+          <Frame time="138138" location="1305;434" source="TemplateMatching" />
+          <Frame time="139139" location="1295;435" source="TemplateMatching" />
+          <Frame time="140140" location="1284;436" source="TemplateMatching" />
+          <Frame time="141141" location="1274;438" source="TemplateMatching" />
+          <Frame time="142142" location="1264;439" source="TemplateMatching" />
+          <Frame time="143143" location="1253;440" source="TemplateMatching" />
+          <Frame time="144144" location="1242;442" source="TemplateMatching" />
+          <Frame time="145145" location="1231;443" source="TemplateMatching" />
+          <Frame time="146146" location="1221;444" source="TemplateMatching" />
+          <Frame time="147147" location="1210;445" source="TemplateMatching" />
+          <Frame time="148148" location="1199;446" source="TemplateMatching" />
+          <Frame time="149149" location="1188;448" source="TemplateMatching" />
+          <Frame time="150150" location="1177;449" source="TemplateMatching" />
+          <Frame time="151151" location="1166;449" source="TemplateMatching" />
+          <Frame time="152152" location="1156;450" source="TemplateMatching" />
+          <Frame time="153153" location="1145;451" source="TemplateMatching" />
+          <Frame time="154154" location="1134;452" source="TemplateMatching" />
+          <Frame time="155155" location="1123;453" source="TemplateMatching" />
+          <Frame time="156156" location="1111;453" source="TemplateMatching" />
+          <Frame time="157157" location="1100;454" source="TemplateMatching" />
+          <Frame time="158158" location="1088;455" source="TemplateMatching" />
+          <Frame time="159159" location="1077;456" source="TemplateMatching" />
+          <Frame time="160160" location="1066;457" source="TemplateMatching" />
+          <Frame time="161161" location="1054;458" source="TemplateMatching" />
+          <Frame time="162162" location="1041;459" source="TemplateMatching" />
+          <Frame time="163163" location="1091;453" source="Manual" />
+          <Frame time="164164" location="1464;452" source="Manual" />
+          <Frame time="165165" location="1005;463" source="TemplateMatching" />
+          <Frame time="166166" location="993;465" source="TemplateMatching" />
+          <Frame time="167167" location="980;467" source="TemplateMatching" />
+          <Frame time="168168" location="1044;471" source="TemplateMatching" />
+          <Frame time="169169" location="1032;472" source="Manual" />
+          <Frame time="170170" location="1020;473" source="TemplateMatching" />
+          <Frame time="171171" location="1008;474" source="TemplateMatching" />
+          <Frame time="172172" location="996;475" source="TemplateMatching" />
+          <Frame time="173173" location="984;476" source="TemplateMatching" />
+          <Frame time="174174" location="972;477" source="TemplateMatching" />
+          <Frame time="175175" location="960;478" source="TemplateMatching" />
+          <Frame time="176176" location="947;478" source="TemplateMatching" />
+          <Frame time="177177" location="935;479" source="TemplateMatching" />
+          <Frame time="178178" location="923;479" source="TemplateMatching" />
+          <Frame time="179179" location="910;480" source="TemplateMatching" />
+          <Frame time="180180" location="897;479" source="TemplateMatching" />
+          <Frame time="181181" location="884;480" source="TemplateMatching" />
+          <Frame time="182182" location="871;481" source="TemplateMatching" />
+          <Frame time="183183" location="858;482" source="TemplateMatching" />
+          <Frame time="184184" location="845;482" source="TemplateMatching" />
+          <Frame time="185185" location="832;484" source="TemplateMatching" />
+          <Frame time="186186" location="818;485" source="TemplateMatching" />
+          <Frame time="187187" location="805;486" source="TemplateMatching" />
+          <Frame time="188188" location="791;487" source="TemplateMatching" />
+          <Frame time="189189" location="778;489" source="TemplateMatching" />
+          <Frame time="190190" location="763;490" source="TemplateMatching" />
+          <Frame time="191191" location="750;493" source="TemplateMatching" />
+          <Frame time="192192" location="737;496" source="TemplateMatching" />
+          <Frame time="193193" location="723;498" source="TemplateMatching" />
+          <Frame time="194194" location="710;500" source="TemplateMatching" />
+          <Frame time="195195" location="697;503" source="TemplateMatching" />
+          <Frame time="196196" location="684;506" source="TemplateMatching" />
+          <Frame time="197197" location="670;508" source="TemplateMatching" />
+          <Frame time="198198" location="656;510" source="TemplateMatching" />
+          <Frame time="199199" location="642;512" source="TemplateMatching" />
+          <Frame time="200200" location="628;514" source="TemplateMatching" />
+          <Frame time="201201" location="614;516" source="TemplateMatching" />
+          <Frame time="202202" location="598;516" source="TemplateMatching" />
+          <Frame time="203203" location="583;517" source="TemplateMatching" />
+          <Frame time="204204" location="568;518" source="TemplateMatching" />
+          <Frame time="205205" location="553;519" source="TemplateMatching" />
+          <Frame time="206206" location="536;520" source="TemplateMatching" />
+          <Frame time="207207" location="520;522" source="TemplateMatching" />
+          <Frame time="208208" location="504;523" source="TemplateMatching" />
+          <Frame time="209209" location="488;525" source="TemplateMatching" />
+          <Frame time="210210" location="472;527" source="TemplateMatching" />
+          <Frame time="211211" location="455;529" source="TemplateMatching" />
+          <Frame time="212212" location="438;531" source="TemplateMatching" />
+          <Frame time="213213" location="421;532" source="TemplateMatching" />
+          <Frame time="214214" location="405;534" source="TemplateMatching" />
+          <Frame time="215215" location="386;534" source="TemplateMatching" />
+          <Frame time="216216" location="368;536" source="TemplateMatching" />
+          <Frame time="217217" location="351;538" source="TemplateMatching" />
+          <Frame time="218218" location="333;539" source="TemplateMatching" />
+          <Frame time="219219" location="316;541" source="TemplateMatching" />
+          <Frame time="220220" location="299;542" source="TemplateMatching" />
+          <Frame time="221221" location="280;543" source="TemplateMatching" />
+          <Frame time="222222" location="262;544" source="TemplateMatching" />
+          <Frame time="223223" location="244;546" source="TemplateMatching" />
+          <Frame time="224224" location="226;547" source="TemplateMatching" />
+          <Frame time="225225" location="207;549" source="TemplateMatching" />
+          <Frame time="226226" location="187;550" source="TemplateMatching" />
+          <Frame time="227227" location="168;552" source="TemplateMatching" />
+          <Frame time="228228" location="148;553" source="TemplateMatching" />
+          <Frame time="229229" location="129;556" source="TemplateMatching" />
+        </Timeline>
+      </TrackablePoint>
+    </TrackableDrawing>
+    <TrackableDrawing id="e748cc8d-475a-4524-ac96-326af673bb4c">
+      <TrackablePoint key="o">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>384;216</SearchWindow>
+          <BlockWindow>96;54</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>1821.514;364.3028</NonTrackingValue>
+        <CurrentValue>1086.381;440.868</CurrentValue>
+        <Timeline>
+          <Frame time="78078" location="1821.514;364.3028" source="Manual" />
+          <Frame time="79079" location="1814;365" source="TemplateMatching" />
+          <Frame time="80080" location="1808;365" source="TemplateMatching" />
+          <Frame time="81081" location="1801;366" source="TemplateMatching" />
+          <Frame time="82082" location="1795;366" source="TemplateMatching" />
+          <Frame time="83083" location="1789;366" source="TemplateMatching" />
+          <Frame time="84084" location="1782;367" source="TemplateMatching" />
+          <Frame time="85085" location="1776;368" source="TemplateMatching" />
+          <Frame time="86086" location="1769;369" source="TemplateMatching" />
+          <Frame time="87087" location="1762;370" source="TemplateMatching" />
+          <Frame time="88088" location="1756;371" source="TemplateMatching" />
+          <Frame time="89089" location="1749;372" source="TemplateMatching" />
+          <Frame time="90090" location="1743;373" source="TemplateMatching" />
+          <Frame time="91091" location="1736;373" source="TemplateMatching" />
+          <Frame time="92092" location="1041.988;458.6215" source="Manual" />
+          <Frame time="93093" location="1722;375" source="TemplateMatching" />
+          <Frame time="94094" location="1716;375" source="TemplateMatching" />
+          <Frame time="95095" location="1709;376" source="TemplateMatching" />
+          <Frame time="96096" location="1702;377" source="TemplateMatching" />
+          <Frame time="97097" location="1695;378" source="TemplateMatching" />
+          <Frame time="98098" location="1688;379" source="TemplateMatching" />
+          <Frame time="99099" location="1681;379" source="TemplateMatching" />
+          <Frame time="100100" location="1674;380" source="TemplateMatching" />
+          <Frame time="101101" location="1667;380" source="TemplateMatching" />
+          <Frame time="102102" location="1660;380" source="TemplateMatching" />
+          <Frame time="103103" location="1653;381" source="TemplateMatching" />
+          <Frame time="104104" location="1646;381" source="TemplateMatching" />
+          <Frame time="105105" location="1639;382" source="TemplateMatching" />
+          <Frame time="106106" location="1632;382" source="TemplateMatching" />
+          <Frame time="107107" location="1625;382" source="TemplateMatching" />
+          <Frame time="108108" location="1617;383" source="TemplateMatching" />
+          <Frame time="109109" location="1609;384" source="TemplateMatching" />
+          <Frame time="110110" location="1602;384" source="TemplateMatching" />
+          <Frame time="111111" location="1594;385" source="TemplateMatching" />
+          <Frame time="112112" location="1587;385" source="TemplateMatching" />
+          <Frame time="113113" location="1578;386" source="TemplateMatching" />
+          <Frame time="114114" location="1571;386" source="TemplateMatching" />
+          <Frame time="115115" location="1564;387" source="TemplateMatching" />
+          <Frame time="116116" location="1556;388" source="TemplateMatching" />
+          <Frame time="117117" location="1546;389" source="TemplateMatching" />
+          <Frame time="118118" location="1538.788;426.9351" source="Manual" />
+          <Frame time="119119" location="1530;390" source="TemplateMatching" />
+          <Frame time="120120" location="1522;391" source="TemplateMatching" />
+          <Frame time="121121" location="1513;392" source="TemplateMatching" />
+          <Frame time="122122" location="1504;393" source="TemplateMatching" />
+          <Frame time="123123" location="1495;393" source="TemplateMatching" />
+          <Frame time="124124" location="1487;394" source="TemplateMatching" />
+          <Frame time="125125" location="1479;394" source="TemplateMatching" />
+          <Frame time="126126" location="1470;395" source="TemplateMatching" />
+          <Frame time="127127" location="1460;395" source="TemplateMatching" />
+          <Frame time="128128" location="1451;396" source="TemplateMatching" />
+          <Frame time="129129" location="1443;396" source="TemplateMatching" />
+          <Frame time="130130" location="1434;396" source="TemplateMatching" />
+          <Frame time="131131" location="1425;397" source="TemplateMatching" />
+          <Frame time="132132" location="1410.934;425.296" source="Manual" />
+          <Frame time="133133" location="1406;398" source="TemplateMatching" />
+          <Frame time="134134" location="1397;398" source="TemplateMatching" />
+          <Frame time="135135" location="1388;399" source="TemplateMatching" />
+          <Frame time="136136" location="1379;399" source="TemplateMatching" />
+          <Frame time="137137" location="1369;400" source="TemplateMatching" />
+          <Frame time="138138" location="1360;401" source="TemplateMatching" />
+          <Frame time="139139" location="1349;402" source="TemplateMatching" />
+          <Frame time="140140" location="1339;403" source="TemplateMatching" />
+          <Frame time="141141" location="1329;404" source="TemplateMatching" />
+          <Frame time="142142" location="1319;406" source="TemplateMatching" />
+          <Frame time="143143" location="1309;407" source="TemplateMatching" />
+          <Frame time="144144" location="1299;408" source="TemplateMatching" />
+          <Frame time="145145" location="1288;409" source="TemplateMatching" />
+          <Frame time="146146" location="1278;410" source="TemplateMatching" />
+          <Frame time="147147" location="1250.297;435.9505" source="Manual" />
+          <Frame time="148148" location="1257;412" source="TemplateMatching" />
+          <Frame time="149149" location="1246;413" source="TemplateMatching" />
+          <Frame time="150150" location="1236;414" source="TemplateMatching" />
+          <Frame time="151151" location="1226;414" source="TemplateMatching" />
+          <Frame time="152152" location="1215;415" source="TemplateMatching" />
+          <Frame time="153153" location="1204;416" source="TemplateMatching" />
+          <Frame time="154154" location="1194;416" source="TemplateMatching" />
+          <Frame time="155155" location="1183;416" source="TemplateMatching" />
+          <Frame time="156156" location="1171;416" source="TemplateMatching" />
+          <Frame time="157157" location="1159;416" source="TemplateMatching" />
+          <Frame time="158158" location="1148;416" source="TemplateMatching" />
+          <Frame time="159159" location="1137;417" source="TemplateMatching" />
+          <Frame time="160160" location="1126;418" source="TemplateMatching" />
+          <Frame time="161161" location="1086.381;436.7701" source="Manual" />
+          <Frame time="162162" location="1086.381;440.868" source="Manual" />
+          <Frame time="163163" location="1059.335;438.4092" source="Manual" />
+          <Frame time="164164" location="1045.402;439.2288" source="Manual" />
+          <Frame time="165165" location="1032.289;441.6875" source="Manual" />
+          <Frame time="166166" location="1018.356;442.5071" source="Manual" />
+          <Frame time="167167" location="1006.062;440.868" source="Manual" />
+          <Frame time="168168" location="1006.062;442.5071" source="Manual" />
+          <Frame time="169169" location="983.1138;437.5896" source="Manual" />
+          <Frame time="170170" location="966.7222;440.868" source="Manual" />
+          <Frame time="171171" location="951.9698;441.6875" source="Manual" />
+          <Frame time="172172" location="977;428" source="TemplateMatching" />
+          <Frame time="173173" location="965;428" source="TemplateMatching" />
+          <Frame time="174174" location="953;429" source="TemplateMatching" />
+          <Frame time="175175" location="940;429" source="TemplateMatching" />
+          <Frame time="176176" location="928;429" source="TemplateMatching" />
+          <Frame time="177177" location="915;430" source="TemplateMatching" />
+          <Frame time="178178" location="903;430" source="TemplateMatching" />
+          <Frame time="179179" location="890;431" source="TemplateMatching" />
+          <Frame time="180180" location="877;432" source="TemplateMatching" />
+          <Frame time="181181" location="864;433" source="TemplateMatching" />
+          <Frame time="182182" location="851;434" source="TemplateMatching" />
+          <Frame time="183183" location="838;435" source="TemplateMatching" />
+          <Frame time="184184" location="775.7604;444.1463" source="Manual" />
+          <Frame time="185185" location="759.3688;445.7854" source="Manual" />
+          <Frame time="186186" location="742.9772;444.9659" source="Manual" />
+          <Frame time="187187" location="738.0598;449.0638" source="Manual" />
+          <Frame time="188188" location="706.9158;445.7854" source="Manual" />
+          <Frame time="189189" location="698.72;440.868" source="Manual" />
+          <Frame time="190190" location="679.0501;438.4092" source="Manual" />
+          <Frame time="191191" location="664.2977;442.5071" source="Manual" />
+          <Frame time="192192" location="651.1844;448.2442" source="Manual" />
+          <Frame time="193193" location="638.0712;451.5225" source="Manual" />
+          <Frame time="194194" location="615.1229;452.342" source="Manual" />
+          <Frame time="195195" location="592.1747;448.2442" source="Manual" />
+          <Frame time="196196" location="583.9789;452.342" source="Manual" />
+          <Frame time="197197" location="561.8503;453.9812" source="Manual" />
+          <Frame time="198198" location="610;456" source="TemplateMatching" />
+          <Frame time="199199" location="594;457" source="TemplateMatching" />
+          <Frame time="200200" location="578;458" source="TemplateMatching" />
+          <Frame time="201201" location="562;459" source="TemplateMatching" />
+          <Frame time="202202" location="545;460" source="TemplateMatching" />
+          <Frame time="203203" location="529;462" source="TemplateMatching" />
+          <Frame time="204204" location="513;463" source="TemplateMatching" />
+          <Frame time="205205" location="496;465" source="TemplateMatching" />
+          <Frame time="206206" location="478;467" source="TemplateMatching" />
+          <Frame time="207207" location="460;469" source="TemplateMatching" />
+          <Frame time="208208" location="443;470" source="TemplateMatching" />
+          <Frame time="209209" location="425;472" source="TemplateMatching" />
+          <Frame time="210210" location="408;474" source="TemplateMatching" />
+          <Frame time="211211" location="389;476" source="TemplateMatching" />
+          <Frame time="212212" location="371;478" source="TemplateMatching" />
+          <Frame time="213213" location="352;480" source="TemplateMatching" />
+          <Frame time="214214" location="334;482" source="TemplateMatching" />
+          <Frame time="215215" location="314;484" source="TemplateMatching" />
+          <Frame time="216216" location="295;487" source="TemplateMatching" />
+          <Frame time="217217" location="276;488" source="TemplateMatching" />
+          <Frame time="218218" location="258;490" source="TemplateMatching" />
+          <Frame time="219219" location="239;491" source="TemplateMatching" />
+          <Frame time="220220" location="219;493" source="TemplateMatching" />
+          <Frame time="221221" location="198;502" source="TemplateMatching" />
+          <Frame time="222222" location="178;509" source="TemplateMatching" />
+          <Frame time="223223" location="159;511" source="TemplateMatching" />
+          <Frame time="224224" location="140;513" source="TemplateMatching" />
+          <Frame time="225225" location="122;516" source="TemplateMatching" />
+          <Frame time="226226" location="102;519" source="TemplateMatching" />
+          <Frame time="227227" location="82;522" source="TemplateMatching" />
+          <Frame time="228228" location="62;525" source="TemplateMatching" />
+          <Frame time="229229" location="48;527" source="TemplateMatching" />
+        </Timeline>
+      </TrackablePoint>
+      <TrackablePoint key="a">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>384;216</SearchWindow>
+          <BlockWindow>96;54</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>1867.41;299.761</NonTrackingValue>
+        <CurrentValue>1169.978;356.4513</CurrentValue>
+        <Timeline>
+          <Frame time="78078" location="1867.41;299.761" source="Manual" />
+          <Frame time="79079" location="1861;299" source="TemplateMatching" />
+          <Frame time="80080" location="1854;299" source="TemplateMatching" />
+          <Frame time="81081" location="1847;299" source="TemplateMatching" />
+          <Frame time="82082" location="1840;299" source="TemplateMatching" />
+          <Frame time="83083" location="1834;299" source="TemplateMatching" />
+          <Frame time="84084" location="1828;299" source="TemplateMatching" />
+          <Frame time="85085" location="1821;300" source="TemplateMatching" />
+          <Frame time="86086" location="1814;300" source="TemplateMatching" />
+          <Frame time="87087" location="1807;300" source="TemplateMatching" />
+          <Frame time="88088" location="1800;301" source="TemplateMatching" />
+          <Frame time="89089" location="1794;301" source="TemplateMatching" />
+          <Frame time="90090" location="1787;301" source="TemplateMatching" />
+          <Frame time="91091" location="1780;302" source="TemplateMatching" />
+          <Frame time="92092" location="1085.988;386.6215" source="Manual" />
+          <Frame time="93093" location="1766;302" source="TemplateMatching" />
+          <Frame time="94094" location="1759;303" source="TemplateMatching" />
+          <Frame time="95095" location="1752;303" source="TemplateMatching" />
+          <Frame time="96096" location="1745;304" source="TemplateMatching" />
+          <Frame time="97097" location="1738;305" source="TemplateMatching" />
+          <Frame time="98098" location="1731;305" source="TemplateMatching" />
+          <Frame time="99099" location="1724;306" source="TemplateMatching" />
+          <Frame time="100100" location="1717;306" source="TemplateMatching" />
+          <Frame time="101101" location="1709;307" source="TemplateMatching" />
+          <Frame time="102102" location="1702;307" source="TemplateMatching" />
+          <Frame time="103103" location="1695;307" source="TemplateMatching" />
+          <Frame time="104104" location="1687;308" source="TemplateMatching" />
+          <Frame time="105105" location="1680;308" source="TemplateMatching" />
+          <Frame time="106106" location="1673;309" source="TemplateMatching" />
+          <Frame time="107107" location="1665;309" source="TemplateMatching" />
+          <Frame time="108108" location="1657;310" source="TemplateMatching" />
+          <Frame time="109109" location="1650;310" source="TemplateMatching" />
+          <Frame time="110110" location="1642;310" source="TemplateMatching" />
+          <Frame time="111111" location="1635;311" source="TemplateMatching" />
+          <Frame time="112112" location="1627;311" source="TemplateMatching" />
+          <Frame time="113113" location="1618;312" source="TemplateMatching" />
+          <Frame time="114114" location="1611;312" source="TemplateMatching" />
+          <Frame time="115115" location="1604;313" source="TemplateMatching" />
+          <Frame time="116116" location="1595;314" source="TemplateMatching" />
+          <Frame time="117117" location="1586;315" source="TemplateMatching" />
+          <Frame time="118118" location="1578;315" source="TemplateMatching" />
+          <Frame time="119119" location="1570;316" source="TemplateMatching" />
+          <Frame time="120120" location="1563;316" source="TemplateMatching" />
+          <Frame time="121121" location="1553;317" source="TemplateMatching" />
+          <Frame time="122122" location="1544;317" source="TemplateMatching" />
+          <Frame time="123123" location="1536;318" source="TemplateMatching" />
+          <Frame time="124124" location="1528;318" source="TemplateMatching" />
+          <Frame time="125125" location="1520;318" source="TemplateMatching" />
+          <Frame time="126126" location="1511;319" source="TemplateMatching" />
+          <Frame time="127127" location="1502;319" source="TemplateMatching" />
+          <Frame time="128128" location="1493;319" source="TemplateMatching" />
+          <Frame time="129129" location="1485;319" source="TemplateMatching" />
+          <Frame time="130130" location="1476;319" source="TemplateMatching" />
+          <Frame time="131131" location="1468;319" source="TemplateMatching" />
+          <Frame time="132132" location="1458;319" source="TemplateMatching" />
+          <Frame time="133133" location="1450;320" source="TemplateMatching" />
+          <Frame time="134134" location="1440;320" source="TemplateMatching" />
+          <Frame time="135135" location="1431;320" source="TemplateMatching" />
+          <Frame time="136136" location="1423;321" source="TemplateMatching" />
+          <Frame time="137137" location="1414;321" source="TemplateMatching" />
+          <Frame time="138138" location="1404;322" source="TemplateMatching" />
+          <Frame time="139139" location="1393;323" source="TemplateMatching" />
+          <Frame time="140140" location="1384;325" source="TemplateMatching" />
+          <Frame time="141141" location="1374;325" source="TemplateMatching" />
+          <Frame time="142142" location="1365;327" source="TemplateMatching" />
+          <Frame time="143143" location="1355;327" source="TemplateMatching" />
+          <Frame time="144144" location="1344;328" source="TemplateMatching" />
+          <Frame time="145145" location="1334;328" source="TemplateMatching" />
+          <Frame time="146146" location="1324;328" source="TemplateMatching" />
+          <Frame time="147147" location="1314;329" source="TemplateMatching" />
+          <Frame time="148148" location="1304;330" source="TemplateMatching" />
+          <Frame time="149149" location="1293;330" source="TemplateMatching" />
+          <Frame time="150150" location="1282;330" source="TemplateMatching" />
+          <Frame time="151151" location="1272;330" source="TemplateMatching" />
+          <Frame time="152152" location="1262;330" source="TemplateMatching" />
+          <Frame time="153153" location="1251;330" source="TemplateMatching" />
+          <Frame time="154154" location="1241;331" source="TemplateMatching" />
+          <Frame time="155155" location="1231;331" source="TemplateMatching" />
+          <Frame time="156156" location="1219;331" source="TemplateMatching" />
+          <Frame time="157157" location="1208;331" source="TemplateMatching" />
+          <Frame time="158158" location="1198;331" source="TemplateMatching" />
+          <Frame time="159159" location="1187;332" source="TemplateMatching" />
+          <Frame time="160160" location="1176;332" source="TemplateMatching" />
+          <Frame time="161161" location="1165;333" source="TemplateMatching" />
+          <Frame time="162162" location="1169.978;356.4513" source="Manual" />
+          <Frame time="163163" location="1151.127;324.4878" source="Manual" />
+          <Frame time="164164" location="1137.195;330.2248" source="Manual" />
+          <Frame time="165165" location="1127.36;331.0444" source="Manual" />
+          <Frame time="166166" location="1113.427;333.5031" source="Manual" />
+          <Frame time="167167" location="1103.592;334.3227" source="Manual" />
+          <Frame time="168168" location="1097.035;361.3688" source="Manual" />
+          <Frame time="169169" location="1079.005;335.1423" source="Manual" />
+          <Frame time="170170" location="1064.252;335.1423" source="Manual" />
+          <Frame time="171171" location="1053.598;334.3227" source="Manual" />
+          <Frame time="172172" location="1033;341" source="TemplateMatching" />
+          <Frame time="173173" location="1021;342" source="TemplateMatching" />
+          <Frame time="174174" location="1009;342" source="TemplateMatching" />
+          <Frame time="175175" location="996;342" source="TemplateMatching" />
+          <Frame time="176176" location="984;343" source="TemplateMatching" />
+          <Frame time="177177" location="972;342" source="TemplateMatching" />
+          <Frame time="178178" location="959;343" source="TemplateMatching" />
+          <Frame time="179179" location="947;343" source="TemplateMatching" />
+          <Frame time="180180" location="934;344" source="TemplateMatching" />
+          <Frame time="181181" location="921;344" source="TemplateMatching" />
+          <Frame time="182182" location="908;344" source="TemplateMatching" />
+          <Frame time="183183" location="895;345" source="TemplateMatching" />
+          <Frame time="184184" location="890.5014;340.8793" source="Manual" />
+          <Frame time="185185" location="874.9294;340.0598" source="Manual" />
+          <Frame time="186186" location="855;347" source="TemplateMatching" />
+          <Frame time="187187" location="857.7183;375.3016" source="Manual" />
+          <Frame time="188188" location="828;348" source="TemplateMatching" />
+          <Frame time="189189" location="814;349" source="TemplateMatching" />
+          <Frame time="190190" location="800;350" source="TemplateMatching" />
+          <Frame time="191191" location="786;350" source="TemplateMatching" />
+          <Frame time="192192" location="771;352" source="TemplateMatching" />
+          <Frame time="193193" location="757;353" source="TemplateMatching" />
+          <Frame time="194194" location="743;353" source="TemplateMatching" />
+          <Frame time="195195" location="728;354" source="TemplateMatching" />
+          <Frame time="196196" location="713;354" source="TemplateMatching" />
+          <Frame time="197197" location="699;355" source="TemplateMatching" />
+          <Frame time="198198" location="684;355" source="TemplateMatching" />
+          <Frame time="199199" location="669;355" source="TemplateMatching" />
+          <Frame time="200200" location="654;355" source="TemplateMatching" />
+          <Frame time="201201" location="638;355" source="TemplateMatching" />
+          <Frame time="202202" location="623;356" source="TemplateMatching" />
+          <Frame time="203203" location="607;355" source="TemplateMatching" />
+          <Frame time="204204" location="592;356" source="TemplateMatching" />
+          <Frame time="205205" location="576;357" source="TemplateMatching" />
+          <Frame time="206206" location="560;357" source="TemplateMatching" />
+          <Frame time="207207" location="543;359" source="TemplateMatching" />
+          <Frame time="208208" location="526;359" source="TemplateMatching" />
+          <Frame time="209209" location="510;359" source="TemplateMatching" />
+          <Frame time="210210" location="494;361" source="TemplateMatching" />
+          <Frame time="211211" location="477;363" source="TemplateMatching" />
+          <Frame time="212212" location="460;365" source="TemplateMatching" />
+          <Frame time="213213" location="443;366" source="TemplateMatching" />
+          <Frame time="214214" location="426;367" source="TemplateMatching" />
+          <Frame time="215215" location="408;368" source="TemplateMatching" />
+          <Frame time="216216" location="389;369" source="TemplateMatching" />
+          <Frame time="217217" location="371;370" source="TemplateMatching" />
+          <Frame time="218218" location="353;370" source="TemplateMatching" />
+          <Frame time="219219" location="335;371" source="TemplateMatching" />
+          <Frame time="220220" location="317;371" source="TemplateMatching" />
+          <Frame time="221221" location="300;374" source="TemplateMatching" />
+          <Frame time="222222" location="281;374" source="TemplateMatching" />
+          <Frame time="223223" location="263;375" source="TemplateMatching" />
+          <Frame time="224224" location="243;375" source="TemplateMatching" />
+          <Frame time="225225" location="224;375" source="TemplateMatching" />
+          <Frame time="226226" location="204;375" source="TemplateMatching" />
+          <Frame time="227227" location="183;374" source="TemplateMatching" />
+          <Frame time="228228" location="164;376" source="TemplateMatching" />
+          <Frame time="229229" location="143;376" source="TemplateMatching" />
+        </Timeline>
+      </TrackablePoint>
+      <TrackablePoint key="b">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>384;216</SearchWindow>
+          <BlockWindow>96;54</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>1840.159;457.5299</NonTrackingValue>
+        <CurrentValue>1133.916;490.0427</CurrentValue>
+        <Timeline>
+          <Frame time="78078" location="1840.159;457.5299" source="Manual" />
+          <Frame time="79079" location="1833;458" source="TemplateMatching" />
+          <Frame time="80080" location="1827;458" source="TemplateMatching" />
+          <Frame time="81081" location="1821;458" source="TemplateMatching" />
+          <Frame time="82082" location="1814;459" source="TemplateMatching" />
+          <Frame time="83083" location="1808;459" source="TemplateMatching" />
+          <Frame time="84084" location="1801;461" source="TemplateMatching" />
+          <Frame time="85085" location="1795;461" source="TemplateMatching" />
+          <Frame time="86086" location="1787;462" source="TemplateMatching" />
+          <Frame time="87087" location="1780;463" source="TemplateMatching" />
+          <Frame time="88088" location="1773;464" source="TemplateMatching" />
+          <Frame time="89089" location="1767;465" source="TemplateMatching" />
+          <Frame time="90090" location="1760;465" source="TemplateMatching" />
+          <Frame time="91091" location="1753;466" source="TemplateMatching" />
+          <Frame time="92092" location="1058.988;551.6216" source="Manual" />
+          <Frame time="93093" location="1739;468" source="TemplateMatching" />
+          <Frame time="94094" location="1732;469" source="TemplateMatching" />
+          <Frame time="95095" location="1725;470" source="TemplateMatching" />
+          <Frame time="96096" location="1718;471" source="TemplateMatching" />
+          <Frame time="97097" location="1711;472" source="TemplateMatching" />
+          <Frame time="98098" location="1704;473" source="TemplateMatching" />
+          <Frame time="99099" location="1697;474" source="TemplateMatching" />
+          <Frame time="100100" location="1689;475" source="TemplateMatching" />
+          <Frame time="101101" location="1682;476" source="TemplateMatching" />
+          <Frame time="102102" location="1674;477" source="TemplateMatching" />
+          <Frame time="103103" location="1667;478" source="TemplateMatching" />
+          <Frame time="104104" location="1660;479" source="TemplateMatching" />
+          <Frame time="105105" location="1653;479" source="TemplateMatching" />
+          <Frame time="106106" location="1645;480" source="TemplateMatching" />
+          <Frame time="107107" location="1638;481" source="TemplateMatching" />
+          <Frame time="108108" location="1630;482" source="TemplateMatching" />
+          <Frame time="109109" location="1622;482" source="TemplateMatching" />
+          <Frame time="110110" location="1615;483" source="TemplateMatching" />
+          <Frame time="111111" location="1607;484" source="TemplateMatching" />
+          <Frame time="112112" location="1599;485" source="TemplateMatching" />
+          <Frame time="113113" location="1591;486" source="TemplateMatching" />
+          <Frame time="114114" location="1583;487" source="TemplateMatching" />
+          <Frame time="115115" location="1576;488" source="TemplateMatching" />
+          <Frame time="116116" location="1568;489" source="TemplateMatching" />
+          <Frame time="117117" location="1559;491" source="TemplateMatching" />
+          <Frame time="118118" location="1572.391;514.6301" source="Manual" />
+          <Frame time="119119" location="1543;493" source="TemplateMatching" />
+          <Frame time="120120" location="1536;494" source="TemplateMatching" />
+          <Frame time="121121" location="1527;495" source="TemplateMatching" />
+          <Frame time="122122" location="1517;496" source="TemplateMatching" />
+          <Frame time="123123" location="1509;497" source="TemplateMatching" />
+          <Frame time="124124" location="1501;498" source="TemplateMatching" />
+          <Frame time="125125" location="1493;499" source="TemplateMatching" />
+          <Frame time="126126" location="1484;500" source="TemplateMatching" />
+          <Frame time="127127" location="1475;500" source="TemplateMatching" />
+          <Frame time="128128" location="1466;501" source="TemplateMatching" />
+          <Frame time="129129" location="1458;502" source="TemplateMatching" />
+          <Frame time="130130" location="1450;503" source="TemplateMatching" />
+          <Frame time="131131" location="1441;504" source="TemplateMatching" />
+          <Frame time="132132" location="1461.748;511.3517" source="Manual" />
+          <Frame time="133133" location="1423;505" source="TemplateMatching" />
+          <Frame time="134134" location="1414;506" source="TemplateMatching" />
+          <Frame time="135135" location="1405;507" source="TemplateMatching" />
+          <Frame time="136136" location="1396;508" source="TemplateMatching" />
+          <Frame time="137137" location="1387;509" source="TemplateMatching" />
+          <Frame time="138138" location="1377;511" source="TemplateMatching" />
+          <Frame time="139139" location="1367;512" source="TemplateMatching" />
+          <Frame time="140140" location="1357;514" source="TemplateMatching" />
+          <Frame time="141141" location="1347;515" source="TemplateMatching" />
+          <Frame time="142142" location="1338;517" source="TemplateMatching" />
+          <Frame time="143143" location="1328;518" source="TemplateMatching" />
+          <Frame time="144144" location="1317;519" source="TemplateMatching" />
+          <Frame time="145145" location="1307;521" source="TemplateMatching" />
+          <Frame time="146146" location="1297;522" source="TemplateMatching" />
+          <Frame time="147147" location="1321.6;499.8776" source="Manual" />
+          <Frame time="148148" location="1276;525" source="TemplateMatching" />
+          <Frame time="149149" location="1266;526" source="TemplateMatching" />
+          <Frame time="150150" location="1255;527" source="TemplateMatching" />
+          <Frame time="151151" location="1245;528" source="TemplateMatching" />
+          <Frame time="152152" location="1234;529" source="TemplateMatching" />
+          <Frame time="153153" location="1224;530" source="TemplateMatching" />
+          <Frame time="154154" location="1213;532" source="TemplateMatching" />
+          <Frame time="155155" location="1203;532" source="TemplateMatching" />
+          <Frame time="156156" location="1191;533" source="TemplateMatching" />
+          <Frame time="157157" location="1180;534" source="TemplateMatching" />
+          <Frame time="158158" location="1169;535" source="TemplateMatching" />
+          <Frame time="159159" location="1158;536" source="TemplateMatching" />
+          <Frame time="160160" location="1147;538" source="TemplateMatching" />
+          <Frame time="161161" location="1170.797;499.8776" source="Manual" />
+          <Frame time="162162" location="1133.916;490.0427" source="Manual" />
+          <Frame time="163163" location="1152.767;503.9755" source="Manual" />
+          <Frame time="164164" location="1139.653;507.2538" source="Manual" />
+          <Frame time="165165" location="1127.36;506.4343" source="Manual" />
+          <Frame time="166166" location="1115.066;506.4343" source="Manual" />
+          <Frame time="167167" location="1103.592;508.0734" source="Manual" />
+          <Frame time="168168" location="1054.417;494.9601" source="Manual" />
+          <Frame time="169169" location="1071.628;501.5168" source="Manual" />
+          <Frame time="170170" location="1057.696;501.5168" source="Manual" />
+          <Frame time="171171" location="1042.124;499.058" source="Manual" />
+          <Frame time="172172" location="1003;557" source="TemplateMatching" />
+          <Frame time="173173" location="991;558" source="TemplateMatching" />
+          <Frame time="174174" location="978;559" source="TemplateMatching" />
+          <Frame time="175175" location="965;561" source="TemplateMatching" />
+          <Frame time="176176" location="953;562" source="TemplateMatching" />
+          <Frame time="177177" location="941;562" source="TemplateMatching" />
+          <Frame time="178178" location="928;564" source="TemplateMatching" />
+          <Frame time="179179" location="915;565" source="TemplateMatching" />
+          <Frame time="180180" location="902;566" source="TemplateMatching" />
+          <Frame time="181181" location="889;567" source="TemplateMatching" />
+          <Frame time="182182" location="876;569" source="TemplateMatching" />
+          <Frame time="183183" location="863;570" source="TemplateMatching" />
+          <Frame time="184184" location="867.5532;514.6301" source="Manual" />
+          <Frame time="185185" location="853.6204;515.4496" source="Manual" />
+          <Frame time="186186" location="834.7701;517.0888" source="Manual" />
+          <Frame time="187187" location="792.152;507.2538" source="Manual" />
+          <Frame time="188188" location="807.7239;522.8258" source="Manual" />
+          <Frame time="189189" location="788.0541;524.465" source="Manual" />
+          <Frame time="190190" location="780.6779;531.8412" source="Manual" />
+          <Frame time="191191" location="771.6625;533.4803" source="Manual" />
+          <Frame time="192192" location="745.436;536.7587" source="Manual" />
+          <Frame time="193193" location="738.0598;541.6761" source="Manual" />
+          <Frame time="194194" location="713.4724;537.5782" source="Manual" />
+          <Frame time="195195" location="700.3591;535.9391" source="Manual" />
+          <Frame time="196196" location="677.4109;536.7587" source="Manual" />
+          <Frame time="197197" location="666.7564;544.1349" source="Manual" />
+          <Frame time="198198" location="655;598" source="TemplateMatching" />
+          <Frame time="199199" location="641;599" source="TemplateMatching" />
+          <Frame time="200200" location="627;600" source="TemplateMatching" />
+          <Frame time="201201" location="611;602" source="TemplateMatching" />
+          <Frame time="202202" location="596;604" source="TemplateMatching" />
+          <Frame time="203203" location="581;605" source="TemplateMatching" />
+          <Frame time="204204" location="566;607" source="TemplateMatching" />
+          <Frame time="205205" location="551;609" source="TemplateMatching" />
+          <Frame time="206206" location="535;611" source="TemplateMatching" />
+          <Frame time="207207" location="518;614" source="TemplateMatching" />
+          <Frame time="208208" location="502;616" source="TemplateMatching" />
+          <Frame time="209209" location="486;618" source="TemplateMatching" />
+          <Frame time="210210" location="471;620" source="TemplateMatching" />
+          <Frame time="211211" location="454;623" source="TemplateMatching" />
+          <Frame time="212212" location="438;625" source="TemplateMatching" />
+          <Frame time="213213" location="421;628" source="TemplateMatching" />
+          <Frame time="214214" location="405;630" source="TemplateMatching" />
+          <Frame time="215215" location="389;632" source="TemplateMatching" />
+          <Frame time="216216" location="372;635" source="TemplateMatching" />
+          <Frame time="217217" location="355;637" source="TemplateMatching" />
+          <Frame time="218218" location="338;639" source="TemplateMatching" />
+          <Frame time="219219" location="321;641" source="TemplateMatching" />
+          <Frame time="220220" location="303;643" source="TemplateMatching" />
+          <Frame time="221221" location="286;645" source="TemplateMatching" />
+          <Frame time="222222" location="268;647" source="TemplateMatching" />
+          <Frame time="223223" location="250;649" source="TemplateMatching" />
+          <Frame time="224224" location="231;652" source="TemplateMatching" />
+          <Frame time="225225" location="213;654" source="TemplateMatching" />
+          <Frame time="226226" location="194;656" source="TemplateMatching" />
+          <Frame time="227227" location="175;658" source="TemplateMatching" />
+          <Frame time="228228" location="156;661" source="TemplateMatching" />
+          <Frame time="229229" location="136;664" source="TemplateMatching" />
+        </Timeline>
+      </TrackablePoint>
+    </TrackableDrawing>
+  </Trackability>
+</KinoveaVideoAnalysis>
