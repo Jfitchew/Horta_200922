@@ -18,6 +18,7 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
 - [CrankAngleDelta-Spikes](CrankAngleDelta-Spikes.html)
+- [DataSpikes](DataSpikes.html)
 - [Drag-Spikes](Drag-Spikes.html)
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
