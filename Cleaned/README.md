@@ -23,7 +23,6 @@ Various plots and data tables to help Validate data for all Test Runs
 - [GroundSpeed-Spikes](GroundSpeed-Spikes.html)
 - [Power-Spikes](Power-Spikes.html)
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
-
 - [Summary of Data Spikes](DataSpikes.html)  
 
 #### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
