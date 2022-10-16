@@ -4,9 +4,9 @@
   url: "/contact/"
   title: "Contact"
 
-- name: "Aero Analysis"
-  url: "https://windcheetah.net/"
-  title: "Wind Cheetah Aero Analysis Service"
+#- name: "Aero Analysis"
+#  url: "https://windcheetah.net/"
+#  title: "Wind Cheetah Aero Analysis Service"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
