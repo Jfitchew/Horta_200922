@@ -13,7 +13,7 @@ Various plots and data tables to help Validate data for all Test Runs
 - [TotalWeight-Peaks](TotalWeight-Peaks.html)
 
 
-#### Data Spikes  <img src="<img src="Power-Spikes.png" alt="power spikes" width="225" style="float:right;" />
+#### Data Spikes  <img src="Power-Spikes.png" alt="power spikes" width="225" style="float:right;" />
 - [AirSpeed-Spikes](AirSpeed-Spikes.html)
 - [Cadence-Spikes](Cadence-Spikes.html)
 - [CdA-Spikes](CdA-Spikes.html)
@@ -24,7 +24,7 @@ Various plots and data tables to help Validate data for all Test Runs
 - [TotalWeight-Spikes](TotalWeight-Spikes.html)
 - [Summary of Data Spikes](DataSpikes.html) 
 
-#### Data Cleaned  <img src="<img src="Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
+#### Data Cleaned  <img src="Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
 - [AirSpeed-Cleaned](AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](Cadence-Cleaned.html)
 - [CdA-Cleaned](CdA-Cleaned.html)

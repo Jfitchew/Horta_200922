@@ -1,4 +1,4 @@
-#### Data Cleaned  <img src="..\<img src="Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
+#### Data Cleaned  <img src="..\Power-Cleaned.png" alt="power cleaned" width="225" style="float:right;" />
 - [AirSpeed-Cleaned](..\AirSpeed-Cleaned.html)
 - [Cadence-Cleaned](..\Cadence-Cleaned.html)
 - [CdA-Cleaned](..\CdA-Cleaned.html)
