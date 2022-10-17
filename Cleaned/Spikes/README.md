@@ -7,3 +7,5 @@
 - [GroundSpeed-Spikes](..\GroundSpeed-Spikes.html)
 - [Power-Spikes](..\Power-Spikes.html)
 - [TotalWeight-Spikes](..\TotalWeight-Spikes.html)
+- [Summary of Data Spikes](..\DataSpikes.html) 
+

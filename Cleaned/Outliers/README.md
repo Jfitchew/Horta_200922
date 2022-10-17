@@ -7,5 +7,3 @@
 - [GroundSpeed-Peaks](..\GroundSpeed-Peaks.html)
 - [Power-Peaks](..\Power-Peaks.html)
 - [TotalWeight-Peaks](..\TotalWeight-Peaks.html)
-- [Summary of Data Spikes](..\DataSpikes.html) 
-
