@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Data Issues"
-    url: "/Cleaned/Issues.html"
+    url: "/Cleaned/Issues/"
   - title: "Data Outliers"
     url: "/Cleaned/Outliers/"
   - title: "Data Spikes"
