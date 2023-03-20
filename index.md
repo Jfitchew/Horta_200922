@@ -2,7 +2,6 @@
 layout: page
 ---
 
-## Horta 20/09/22  
 - [Data Validation](CleanedByBR/)
 - [Data Analysis](Validated/)
 
@@ -20,7 +19,7 @@ layout: page
 - Newport 30/11/22
   - [Rider 1](/Newport_301122/Rider_1/)
   - [Rider 2](/Newport_301122/Rider_2/)
-  - [Rider 3](/Newport_301122/Rider_3/)
+  - [Matt](/Newport_301122/Matt/)
   - [Rider 4](/Newport_301122/Rider_4/)
 - [Newport 29/11/22](/Newport_291122/) 
 - [Horta   20/09/22](/Horta_200922/) 
